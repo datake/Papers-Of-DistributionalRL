@@ -38,6 +38,8 @@ Related papers for Distributional Reinforcement Learning (DistRL). Since there a
 
 * [The Nature of Temporal Difference Errors in Multi-step Distributional Reinforcement Learning](https://arxiv.org/pdf/2207.07570.pdf) (NeurIPS 2022)
 
+* [Distributional Reinforcement Learning for Risk-Sensitive Policies](https://proceedings.neurips.cc/paper_files/paper/2022/file/c88a2bd0e793550d0e885aa6e31ca277-Paper-Conference.pdf) (NeurIPS 2022)
+
 
 ## 2021
 
