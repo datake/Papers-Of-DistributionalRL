@@ -1,5 +1,5 @@
 # Papers Of Distributional RL
-Related papers for Distributional Reinforcement Learning (DistRL). Since there are tens of new papers on distributional RL with various applications in each conference, we are only able to update those we just read and consider as insightful in our subjective opinion. Please feel free to let us know if you feel we have missed some important papers; we would appreciate your kindness.
+Related papers for Distributional Reinforcement Learning (DistRL). Since there are tons of new papers on distributional RL with various applications in each conference, we are only able to update those we just read and consider as insightful in our subjective opinion. Please feel free to let us know if you feel we have missed some important papers; we would appreciate your kindness.
 
 **Contact** : [Ke Sun](https://sites.google.com/view/kesun), ksun6@ualberta.ca
 
