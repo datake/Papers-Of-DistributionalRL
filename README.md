@@ -18,6 +18,8 @@ Related papers for Distributional Reinforcement Learning (DistRL). Since there a
 
 ## 2023
 
+* [An Analysis of Quantile Temporal-Difference Learning](https://arxiv.org/pdf/2301.04462.pdf) (JMLR)
+
 * [Distributional Reinforcement Learning](https://www.distributional-rl.org/) (Book, MIT Press)
 
 * [The Statistical Benefits of Quantile Temporal-Difference Learning for Value Estimation](https://arxiv.org/pdf/2305.18388.pdf) (ICML 2023)
