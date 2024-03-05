@@ -19,12 +19,15 @@ Related papers for Distributional Reinforcement Learning (DistRL). Since there a
 ## 2023
 
 * [An Analysis of Quantile Temporal-Difference Learning](https://arxiv.org/pdf/2301.04462.pdf) (JMLR)
+> This paper gives a comprehensive analysis of quantile TD, with a particular focus on the convergence of sample-based quantile TD by leveraging the stochastic approximation techniques instead of the already existing contraction analysis in the dynamic programming scenario.
 
 * [Distributional Reinforcement Learning](https://www.distributional-rl.org/) (Book, MIT Press)
 
 * [The Statistical Benefits of Quantile Temporal-Difference Learning for Value Estimation](https://arxiv.org/pdf/2305.18388.pdf) (ICML 2023)
+> The authors argue that quantile TD is also fundamental akin to the clascial TD, as it can offer better value estimation even without directly do the return distribution learning. Specifically, the analysis is mainly in the tabular setting.
 
 * [Distributional Offline Policy Evaluation with Predictive Error Guarantees](https://arxiv.org/pdf/2302.09456.pdf) (ICML 2023)
+> This paper extends the fitted Q evaluation to its distributional version. Under MLE estimation with a probabilistic model, e.g., generative models, some prediction guarantees are provided by considering the TV and Wasserstein distance. Note that the prediction guarantee is based on the small in-distribution generalization error and the analysis is not directly related to practical distributional RL algorithms. Some underlying connection with categorical distributional RL exists as MLE is equivalent to KL divergence, but the authors did not clearly state that.
 
 * [Variance Control for Distributional Reinforcement Learning](https://arxiv.org/pdf/2307.16152.pdf) (ICML 2023)
 
