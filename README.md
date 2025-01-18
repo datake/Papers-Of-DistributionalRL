@@ -13,13 +13,21 @@ Related papers for Distributional Reinforcement Learning (DistRL). Since there a
 ## 2024
 
 * [Foundations of Multivariate Distributional Reinforcement Learning](https://arxiv.org/abs/2409.00328) (NeurIPS 2024)
+ 
 * [Near-Minimax-Optimal Distributional Reinforcement Learning with a Generative Model](https://arxiv.org/abs/2402.07598) (NeurIPS 2024)
+ 
 * [Action Gaps and Advantages in Continuous-Time Distributional Reinforcement Learning](https://arxiv.org/abs/2410.11022) (NeurIPS 2024)
+ 
 * [Distributional Reinforcement Learning via Regularized Wasserstein Loss](https://arxiv.org/abs/2202.00769) (NeurIPS 2024)
+ 
 * [A Distributional Analogue to the Successor Representation](https://arxiv.org/pdf/2402.08530) (ICML 2024)
+ 
 * [More Benefits of Being Distributional: Second-Order Bounds for Reinforcement Learning](https://www.arxiv.org/pdf/2402.07198) (ICML 2024)
+ 
 * [Provable Risk-Sensitive Distributional Reinforcement Learning with General Function Approximation](https://arxiv.org/pdf/2402.18159) (ICML 2024)
+ 
 * [Distributional Bellman Operators over Mean Embeddings](https://arxiv.org/abs/2312.07358) (ICML 2024)
+ 
 * [Diverse Projection Ensembles for Distributional Reinforcement Learning ](https://openreview.net/pdf?id=qe49ybvvPs) (ICLR 2024)
 
 ## 2023
