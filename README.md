@@ -1,19 +1,18 @@
 # Papers Of Distributional RL
 Related papers for Distributional Reinforcement Learning (DistRL). Since there are tons of new papers on distributional RL with various applications in each conference, we are only able to update those we just read and consider as insightful in our subjective opinion. Please feel free to let us know if you feel we have missed some important papers; we would appreciate your kindness.
 
-**Contact** : [Ke Sun](https://sites.google.com/view/kesun), ksun6@ualberta.ca
+**Contact** : [Ke Sun](https://sites.google.com/view/kesun), kesun@fas.harvard.edu
 
-## Submitted
+## Onging
 
-* [How Does Return Distribution in Distributional Reinforcement Learning Help Optimization](https://arxiv.org/abs/2209.14513)
+* [How Does Return Distribution in Distributional Reinforcement Learning Help Optimization](https://arxiv.org/abs/2209.14513) (ICML2024 workshop)
 
-* [Distributional Reinforcement Learning via Sinkhorn Divergence](https://arxiv.org/abs/2202.00769) 
-
-* [Interpreting Distributional Reinforcement Learning: A Regularization Perspective](https://arxiv.org/pdf/2110.03155.pdf) 
+* [The Benefits of Being Categorical Distribution: Uncertainty-Aware Entropy Regularized Exploration in Reinforcement Learning](https://arxiv.org/pdf/2110.03155.pdf) (in submission)
 
 
 ## 2024
 
+* [Distributional Reinforcement Learning via Regularized Wasserstein Loss](https://arxiv.org/abs/2202.00769) (NeurIPS 2024)
 * [A Distributional Analogue to the Successor Representation](https://arxiv.org/pdf/2402.08530) (ICML 2024)
 * [More Benefits of Being Distributional: Second-Order Bounds for Reinforcement Learning](https://www.arxiv.org/pdf/2402.07198) (ICML 2024)
 * [Provable Risk-Sensitive Distributional Reinforcement Learning with General Function Approximation](https://arxiv.org/pdf/2402.18159) (ICML 2024)
