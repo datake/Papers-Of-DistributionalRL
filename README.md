@@ -5,9 +5,21 @@ Related papers for Distributional Reinforcement Learning (DistRL). Since there a
 
 ## Onging
 
-* [How Does Return Distribution in Distributional Reinforcement Learning Help Optimization](https://arxiv.org/abs/2209.14513) (ICML2024 workshop)
+
 
 * [The Benefits of Being Categorical Distribution: Uncertainty-Aware Entropy Regularized Exploration in Reinforcement Learning](https://arxiv.org/pdf/2110.03155.pdf) (in submission)
+
+
+## 2025 
+
+
+* [Bellman Unbiasedness: Toward Provably Efficient Distributional Reinforcement Learning with General Value Function Approximation](https://arxiv.org/pdf/2407.21260) (ICML 2025)
+
+* [Beyond CVaR: Leveraging Static Spectral Risk Measures for Enhanced Decision-Making in Distributional Reinforcement Learning](https://arxiv.org/pdf/2501.02087) (ICML 2025)
+
+* [Categorical Distributional Reinforcement Learning with Kullback-Leibler Divergence: Convergence and Asymptotics](https://openreview.net/forum?id=f4qxkR6GQK) (ICML 2025)
+
+* [AlphaQCM: Alpha Discovery with Distributional Reinforcement Learning](https://icml.cc/virtual/2025/poster/46517) (ICML 2025)
 
 
 ## 2024
@@ -29,6 +41,8 @@ Related papers for Distributional Reinforcement Learning (DistRL). Since there a
 * [Distributional Bellman Operators over Mean Embeddings](https://arxiv.org/abs/2312.07358) (ICML 2024)
  
 * [Diverse Projection Ensembles for Distributional Reinforcement Learning ](https://openreview.net/pdf?id=qe49ybvvPs) (ICLR 2024)
+
+* [How Does Return Distribution in Distributional Reinforcement Learning Help Optimization](https://arxiv.org/abs/2209.14513) (ICML2024 workshop)
 
 ## 2023
 
